@@ -57,6 +57,7 @@
 # Ignore all local history of files
 .history
 .ionide
+.vscode/settings.json
 
 
-# End of https://www.toptal.com/developers/gitignore/api/c++,obsidian
+# End of https://www.toptal.com/developers/gitignore/api/c++,obsidian,visualstudiocode
