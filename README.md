@@ -2,7 +2,7 @@
 
 Hello 👋
 
-This is a GitHub for Competitive Programming!
+This is a GitHub Repository for Competitive Programming!
 
 ## Algorithms
 
@@ -21,6 +21,7 @@ A folder with solutions to (hopefully all soon) Problems found on the CSES Probl
 **Link to the CSES Problem Set: [CSES Website](https://cses.fi/problemset/list/)**
 
 **Base Folder: [CSES](cses)**
+- [Introductory Problems](cses/01_IntroductoryProblems)
 
 ## Codeforces
 
